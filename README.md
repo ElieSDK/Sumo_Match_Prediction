@@ -14,4 +14,4 @@ Simply by opening XXX.ipynb
 
 ## 方法
 
-XXX.ipynbをクリックします。
+XXX.ipynbをクリックをしてください。
