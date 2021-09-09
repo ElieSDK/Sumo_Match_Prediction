@@ -2,7 +2,7 @@
 
 Sumo datasets analysis with an objective of predicting the outcome of sumo plays.
 
-## How to use
+## How to
 
 Simply by opening XXX.ipynb
 
