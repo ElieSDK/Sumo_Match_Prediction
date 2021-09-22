@@ -4,7 +4,7 @@ Sumo datasets analysis with an objective of predicting the outcome of sumo plays
 
 ## How to
 
-Simply by opening XXX.ipynb
+Simply by opening Sumo Match Prediction.ipynb
 
 ----------------------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ Simply by opening XXX.ipynb
 
 ## 方法
 
-XXX.ipynbをクリックをしてください。
+大相撲の試合の予測.ipynbをクリックをしてください。
