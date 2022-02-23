@@ -1,10 +1,10 @@
 # Sumo Match Prediction
 
-Sumo datasets analysis with an objective of predicting the outcome of sumo plays.
+Sumo datasets analysis with the objective of predicting the outcome of sumo plays.
 
 ## How to
 
-Simply by opening Sumo Match Prediction.ipynb or using [Jupyter Nbviewer](https://nbviewer.jupyter.org/github/ElieSDK/Sumo_Match_Prediction/blob/main/Sumo%20Match%20Prediction.ipynb)
+By opening Sumo Match Prediction.ipynb or using [Jupyter Nbviewer](https://nbviewer.jupyter.org/github/ElieSDK/Sumo_Match_Prediction/blob/main/Sumo%20Match%20Prediction.ipynb)
 
 ----------------------------------------------------------------------------------------
 
